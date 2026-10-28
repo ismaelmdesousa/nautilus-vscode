@@ -1,0 +1,22 @@
+# Simplified Chinese translations for nautilus-vscode.
+# SPDX-License-Identifier: MIT
+
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-vscode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-27 00:00-0300\n"
+"PO-Revision-Date: 2026-10-27 00:00-0300\n"
+"Last-Translator: nautilus-vscode contributors\n"
+"Language-Team: Simplified Chinese\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Open in VS Code"
+msgstr "在 VS Code 中打开"
+
+msgid "Open this folder in Visual Studio Code"
+msgstr "在 Visual Studio Code 中打开此文件夹"
